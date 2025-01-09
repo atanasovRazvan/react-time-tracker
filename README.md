@@ -1,7 +1,7 @@
 # Track the time spent on each page in React
 
 ### Installation and running
-- `git clone`
+- `git clone https://github.com/atanasovRazvan/react-time-tracker.git`
 - `npm install`
 - `cd be && npm install`
 - `npm run start`
